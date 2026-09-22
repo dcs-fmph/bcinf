@@ -12,8 +12,8 @@ moodle: 2161
 # TODO: zmenit podla semestra ZS/LS
 header_pages:
   - index.md
-  - Pravidlá_ZS.md 
+  - Pravidla_ZS.md 
   - Kontakt.md
-  - Návod.md
-  - Školitelia.md
+  - Navod.md
+  - Skolitelia.md
   
