@@ -1,4 +1,4 @@
-See https://bbrejova.github.io/bcinf/
+See https://dcs-fmph.github.io/bcinf/
 
 What to update:
 

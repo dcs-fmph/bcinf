@@ -5,7 +5,29 @@ layout: index
 
 ### 1-INF-911, 1-INF-920
 
+#### Zimný semester
 
+* **23.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
+[Pravidlá](./Pravidla_ZS.md)  • [Návod](./Navod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Skolitelia.md)
+* **30.9. Predstavovanie tém a školiteľov (všetci)**
+* **7.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
+[Úvod do LaTeXu](./Uvod_do_LaTeXu.md)
+* **14.10. Písomná práca, práca s literatúrou (všetci)**<br>
+[Návod](./Navod.md) (podstránky 3.,4.,5.)
+* **21.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
+[Návod](./Navod.md) (podstránky 6.,7.) •  [DÚ1](./DU1.md) • [Prezentácia 1](./Prezentacia_1.md) • [Kontrolné stretnutie 1](./Kontrolne_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
+* **28.10. Rezerva**
+* **4.11. Prezentácie (aspoň 2)**<br>
+* **11.11. Prezentácie (aspoň 2)**<br>
+* **18.11. Prezentácie (aspoň 2)**<br>
+* **25.11. Prezentácie (aspoň 2)**<br>
+* **2.12. Prezentácie (aspoň 2)**<br>
+* **9.12. Prezentácie (aspoň 2)**<br>
+* **16.12. Rezerva**<br>
+
+* Kontrolné stretnutie cez skúškové obdobie
+
+<!--
 #### Letný semester
 
 * **25.2. Úvod (všetci)**<br>
@@ -28,42 +50,6 @@ Zeleňák, Vadovič, Britsova, Pashkouskaya, Ihnatovich, Shcherba
 * **6.5. Voľno**
 * **13.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob**
 * **4.6. Predobhajoby (M-IV)**<br>
-9:00 Fremal, Maltsev, Rusavskyi, Tanashchuk, Siviček<BR> 
-12:00 Buček, Diko, Gottweis, Kováčová, Nemčík, Sudin
 * **8.6. Predobhajoby (M-III)**<br>
-9:00 Bezák, Gurová, Havriuk, Bittara, Petrenko<BR>
-12:00 Dovhosheia, Duchyňa, Magát, Dujava, Krupa
 * **9.6. Predobhajoby (M-III)**<br>
-9:00 Janitorová, Jánoščík, Križanová, Roch, Vadovič<BR> 
-12:00 Britsova, Pashkouskaya, Shcherba, Ihnatovich, Rajnoha
-
-#### Zimný semester
-
-* **24.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
-[Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Školitelia.md)
-* **1.10. Predstavovanie tém a školiteľov (všetci)**
-* **8.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
-[Úvod do LaTeXu](./Úvod_do_LaTeXu.md)
-* **15.10. Písomná práca, práca s literatúrou (všetci)**<br>
-[Návod](./Návod.md) (podstránky 3.,4.,5.)
-* **22.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
-[Návod](./Návod.md) (podstránky 6.,7.) •  [DÚ1](./DÚ1.md) • [Prezentácia 1](./Prezentácia_1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
-* **29.10. Prezentácie (aspoň 2)**
-Siviček, Magát, Kováčová, Jánošík, Janitorová, Križanová<br>
-* **5.11. Seminár nebude**<br>
-* **12.11. Seminár nebude**<br>
-* **19.11. Seminár nebude**<br>
-* **26.11. Výročná konferencia FMFI (seminár nebude)**<br>
-* **1.12. Prezentácie (aspoň 2)**<br>
-Diko, Fremal, Buček, Nemčík, Remiš, Bittara<br>
-* **3.12. Prezentácie (aspoň 2)**<br>
-Rusavskyi, Dovhosheia, Nemchenko, Magát<br>
-* **8.12. Prezentácie (aspoň 2)**<br>
-Tanashchuk, Dzacovský, Petrenko, Duchyňa, Roch, Dujava, Bezák<br>
-* **10.12. Prezentácie (aspoň 2)**<br>
-Nemčík, Sudin, Havriuk, Rajnoha, Zeleňák, Vadovič<br> 
-* **17.12. Prezentácie (aspoň 2)**<br>
-Gottweis, Pashkouskaya, Ihnatovich, Shcherba, Britsova<br>
-
-* Kontrolné stretnutie cez skúškové obdobie
-
+-->
