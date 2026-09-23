@@ -6,7 +6,7 @@ Na tejto stránke zhromažďujeme dobré rady k bakalárskej práci a k štúdiu
 v poslednom ročníku.
 
 1. [Štúdium v poslednom ročníku](./Studium_v_poslednom_rocniku.md)
-2. [Výber školiteľa a témy](./Vyber_skoliteľa_a_temy.md)
+2. [Výber školiteľa a témy](./Vyber_skolitela_a_temy.md)
 3. [Rady k samotnej práci](./Rady_k_samotnej_praci.md)
 4. [Písomná práca](./Pisomna_praca.md)
    - (4b) [Plagiátorstvo a použitie UI](./Plagiatorstvo.md)
