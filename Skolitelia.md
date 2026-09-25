@@ -10,7 +10,7 @@ title: Školitelia a témy
 - **Mgr. Askar Gafurov, PhD.** bioinformatika, štatistika
 - **RNDr. Jaroslav Janáček, PhD.** operačné systémy, informačná bezpečnosť, siete, systémové programovanie
 - **RNDr. Jana Kostičová, PhD.** dátové inžinierstvo, hierarchické dáta, kompilátory, softvérové inžinierstvo
-- **Mgr. Peter Kostolányi, PhD.** formálne jazyky a teória automatov, modely výpočtov a zložitosť, matematické základy informatiky (požiadavky na študenta: matematická gramotnosť, znalosť angličtiny postačujúca na štúdium odbornej literatúry)
+- **Mgr. Peter Kostolányi, PhD.** formálne jazyky a automaty, automaty s váhami, matematické metódy v informatike
 - **prof. RNDr. Rastislav Královič, PhD.** algoritmy
 - **doc. RNDr. Robert Lukoťka, PhD.** teória grafov
 - **doc. RNDr. Edita Mačajová, PhD.** teória grafov (rôzne druhy farbení a toky grafoch -- témy môžu byt teoretické alebo aj praktické, t.j. návrh a implementácia algoritmov)
