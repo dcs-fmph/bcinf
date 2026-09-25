@@ -9,8 +9,8 @@ layout: index
 
 * **23.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
 [Pravidlá](./Pravidla_ZS.md)  • [Návod](./Navod.md) (podstránky 1.-3.)  •  [Školitelia a témy](./Skolitelia.md)
-* **30.9. Predstavovanie tém a školiteľov (všetci)**
-* **7.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
+* **30.9. Nepovinná prednáška a cvičenie k LaTeXu**<br>
+* **7.10. Predstavovanie tém a školiteľov (všetci)**
 [Úvod do LaTeXu](./Uvod_do_LaTeXu.md)
 * **14.10. Písomná práca, práca s literatúrou (všetci)**<br>
 [Návod](./Navod.md) (podstránky 3.,4.,5.)
