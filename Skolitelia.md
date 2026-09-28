@@ -10,7 +10,7 @@ title: Školitelia a témy
 - **Mgr. Askar Gafurov, PhD.** bioinformatika, štatistika
 - **RNDr. Jaroslav Janáček, PhD.** operačné systémy, informačná bezpečnosť, siete, systémové programovanie
 - **RNDr. Jana Kostičová, PhD.** dátové inžinierstvo, hierarchické dáta, kompilátory, softvérové inžinierstvo
-- **Mgr. Peter Kostolányi, PhD.** formálne jazyky a automaty, automaty s váhami, matematické metódy v informatike
+- **doc. RNDr. Peter Kostolányi, PhD.** formálne jazyky a automaty, automaty s váhami, matematické metódy v informatike
 - **prof. RNDr. Rastislav Královič, PhD.** algoritmy
 - **doc. RNDr. Robert Lukoťka, PhD.** teória grafov
 - **doc. RNDr. Edita Mačajová, PhD.** teória grafov (rôzne druhy farbení a toky grafoch -- témy môžu byt teoretické alebo aj praktické, t.j. návrh a implementácia algoritmov)
@@ -23,10 +23,6 @@ title: Školitelia a témy
 - **doc. RNDr. Martin Stanek, PhD.** kryptológia
 - **prof. RNDr. Martin Škoviera, PhD.** rozličné témy z teórie grafov podľa výberu záujemcu (kubické grafy, snarky a ich vlastnosti, realizácia grafov na plochách, hamiltonovské kružnice, atď; práca môže zahŕňať aj výpočty alebo experimentovanie na počítači)
 
-Bývalí členovia katedry
-
-- **Mgr. Jaroslav Budiš, PhD.** aplikácie zamerané na biologické a medínske dáta
-- **Mgr. Michal Ferko, PhD.** grafika, počítačové hry http://sccg.sk/~mferko/
 
 ## Školitelia z iných katedier
 
@@ -44,7 +40,7 @@ V posledných rokoch naši študenti vypracovávali bakalárske práce aj pod ve
   Kristína Malinovská, PhD., RNDr. Marek Nagy, PhD., Mgr. Pavel
   Petrovič, PhD., RNDr. Jozef Šiška, PhD., RNDr. Andrej Lúčny, PhD.
 - v oblasti bioinformatiky Mgr. Tomáš Vinař, PhD., Mgr. Vladimír Boža,
-  PhD. ([zoznam tém](http://compbio.fmph.uniba.sk/~usama/))
+  PhD. ([zoznam tém](http://compbio.fmph.uniba.sk/~usama/)), Mgr. Jaroslav Budiš, PhD.
 - v oblasti programovacích jazykov, mobilných aplikácií RNDr. Peter
   Borovanský, PhD., Ing. František Gyárfáš, PhD.
 - v oblasti logiky Mgr. Ján Kľuka, PhD.
