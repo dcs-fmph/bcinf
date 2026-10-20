@@ -14,8 +14,8 @@ layout: index
 [Úvod do LaTeXu](./Uvod_do_LaTeXu.md)
 * **14.10. Písomná práca, práca s literatúrou (všetci)**<br>
 [Návod](./Navod.md) (podstránky 3.,4.,5.)
-* **21.10. Nájdené témy, LaTeX, úvod k prezentáciám (všetci)**<br>
-[Návod](./Navod.md) (podstránky 6.,7.) •  [DÚ1](./DU1.md) • [Prezentácia 1](./Prezentacia_1.md) • [Kontrolné stretnutie 1](./Kontrolne_stretnutie_1.md) <!-- • [Oznamy](Oznamy_október.md) -->
+* **21.10. Nájdené témy, písomná práca, práca s literatúrou, úvod k prezentáciám (všetci)**<br>
+[Návod](./Navod.md) (podstránky 4.,5.,7.) •  [DÚ1](./DU1.md) • [Prezentácia 1](./Prezentacia_1.md) • [Kontrolné stretnutie 1](./Kontrolne_stretnutie_1.md) 
 * **28.10. Rezerva**
 * **4.11. Prezentácie (aspoň 2)**<br>
 * **11.11. Prezentácie (aspoň 2)**<br>
