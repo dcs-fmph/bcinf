@@ -80,7 +80,7 @@ zdroje môžete nájsť pomocou citácií
   - univerzita má niektoré časopisy a zborníky predplatené ([zoznam
     kolekcií](https://uniba.sk/o-univerzite/fakulty-a-dalsie-sucasti/akademicka-kniznica-uk/externe-informacne-zdroje/))
       - prístup z fakultnej siete alebo cez
-        [proxy](https://uniba.sk/o-univerzite/fakulty-a-dalsie-sucasti/cit/citps/sietove-sluzby/proxy/)
+        [proxy](https://uniba.sk/o-univerzite/rektorat-uk/citps/sietove-sluzby/proxy/)
   - ak časopis nie je prístupný, niekedy sa dá nájsť aspoň predbežná
     verzia článku na webstránkach autorov
   - abstrakt býva voľne prístupný, pomôže vám posúdiť, či sa prácu
