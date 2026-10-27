@@ -18,6 +18,7 @@ layout: index
 [Návod](./Navod.md) (podstránky 4.,5.,7.) •  [DÚ1](./DU1.md) • [Prezentácia 1](./Prezentacia_1.md) • [Kontrolné stretnutie 1](./Kontrolne_stretnutie_1.md) 
 * **28.10. Rezerva**
 * **4.11. Prezentácie (aspoň 2)**<br>
+Ďurík, Koncz, Kucher, Kurňava, Matsiutsia, Nemchenko, Veres
 * **11.11. Prezentácie (aspoň 2)**<br>
 * **18.11. Prezentácie (aspoň 2)**<br>
 * **25.11. Prezentácie (aspoň 2)**<br>
