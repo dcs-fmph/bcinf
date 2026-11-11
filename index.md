@@ -20,12 +20,12 @@ layout: index
 * **4.11. Prezentácie (aspoň 2)**<br>
 Ďurík, Koncz, Kucher, Kurňava, Matsiutsia, Nemchenko, Veres
 * **11.11. Prezentácie (aspoň 2)**<br>
-Burlaka, Madzin, Martyniuk D., Zykov, Vimpeľ, Krivošík, Križan
+Protas, Madzin, Martyniuk D., Zykov, Vimpeľ, Krivošík, Križan
 * **18.11. Prezentácie (aspoň 2)**<br>
 Filo, Gerát, Gubkin, Jurík, Travěnec, Zaveriukha, Hliadchyshyn,
 * **25.11. Connections (seminár nebude)**<br>
 * **2.12. Prezentácie (aspoň 2)**<br>
-Leiko, Protas, Baďura, Rakov, Zakharyshyn, Pehushyn, Yehorov
+Leiko, Burlaka, Baďura, Rakov, Zakharyshyn, Pehushyn, Yehorov
 * **9.12. Prezentácie (aspoň 2)**<br>
 Dobrík, Varga, Hrobčák, Martyniuk A., Prytula, Samusieva,
 * **16.12. Prezentácie (aspoň 2)**<br>
